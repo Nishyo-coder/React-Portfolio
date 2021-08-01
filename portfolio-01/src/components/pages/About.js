@@ -6,10 +6,8 @@ export default function About() {
     <div>
       <h1>About</h1>
       <img src="/images/nish.jpeg" alt=""/>
-      <p>
-      Hi, I'm Nish!
-      I'm a non-profit manager and web developer focused on technology advocacy to help develop platforms to assist kids from low socioeconomic areas.
-      </p>
+      <h1>Hi, I'm Shanisha</h1>
+          <h2> I'm a non-profit manager and web developer focused on technology advocacy to help develop platforms to assist kids from low socioeconomic areas.</h2>
 
       
     </div>
