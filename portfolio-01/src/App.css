@@ -89,6 +89,7 @@
     border-radius: 0%;
     border-color: #C9B4B4;
     display:inline-block;
+    position:relative
   }
 
   .card-body {
@@ -117,14 +118,16 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  /* width: 75%; */
   position: relative;
   }
 
   .image-container{
 
     overflow: hidden;
-    height: 200px;
+    height: 100px;
+    margin-left: auto;
+  margin-right: auto;
   }
 
   .Nish {
@@ -134,10 +137,6 @@
   width: 50%;
   position: relative;
     
-  }
-
-  footer {
-    background:red
   }
   
   @media only screen and (max-width:620px) {}

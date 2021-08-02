@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Box = styled.div`
   padding: 50px 30px;
   background: #C9B4B4;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   
@@ -38,3 +38,4 @@ export const FooterLink = styled.a`
   }
 `;
    
+
