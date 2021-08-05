@@ -1,5 +1,4 @@
 # React-Portfolio
-Nish Codes Now
 ## Description
 Update: This new portfolio is under a new application, still with a cleaner and more responsive application that my first go at my portfolio. Contact, Resume, and Portfolio Pages have been added. The media responsiveness has been updated along with cleaning up the Navbar. 
 
